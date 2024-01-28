@@ -74,8 +74,8 @@ background: var(--Call-to-Action, #596fff);
         overflow-x: hidden;
 
    }
-   .in{
+   /* .in{
     width:120px;
-   }
+   } */
 }
 
